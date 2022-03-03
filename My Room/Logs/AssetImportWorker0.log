@@ -192,3 +192,11 @@ Received Import Request.
 Start importing Assets/Prefabs/Room Prefabs/Flower Pots.prefab using Guid(3c79aae5317e1834aaa97c68c044fb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a325fe11e4e3fbcac07fbf992b753c8c') in 0.009141 seconds 
   Import took 0.015488 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 396.948164 seconds.
+  path: Assets/Prefabs/Walls/NorthWall.prefab
+  artifactKey: Guid(62a537e087d0a524ea70842f0beac296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Walls/NorthWall.prefab using Guid(62a537e087d0a524ea70842f0beac296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f999463b87bb49cf5a1e030b7ad1428f') in 0.015416 seconds 
+  Import took 0.021957 seconds .
+
